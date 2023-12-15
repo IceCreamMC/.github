@@ -2,7 +2,7 @@
 Welcome to IceCreamMC! We are a Purpur fork, and we plan to improve how purpur has setup their jar so far!
 
 # Links
-> Discord: https://discord.gg/Ks9YH99US3
-> Repo: http://135.181.141.62:4038/
-> Website: TBD
-> GitHub: https://github.com/icecreammc
+- Discord: https://discord.gg/Ks9YH99US3
+- Repo: http://135.181.141.62:4038/
+- Website: TBD
+- GitHub: https://github.com/icecreammc
