@@ -9,4 +9,7 @@ Welcome to IceCreamMC! We are a Purpur fork, and we plan to improve how purpur h
 - Docs: https://icecreammc.github.io/docs
 
 
-<iframe src="https://canary.discord.com/widget?id=1184671557306548266&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+<a href="https://discord.gg/pCCG5ewgjA">
+         <img alt="IceCream Discord" src="https://discord.com/api/guilds/1184671557306548266/widget.png?style=banner2">
+</a>
