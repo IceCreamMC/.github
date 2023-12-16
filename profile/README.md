@@ -7,3 +7,6 @@ Welcome to IceCreamMC! We are a Purpur fork, and we plan to improve how purpur h
 - Website: https://icecreammc.github.io
 - GitHub: https://github.com/icecreammc
 - Docs: https://icecreammc.github.io/docs
+
+
+<iframe src="https://canary.discord.com/widget?id=1184671557306548266&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
